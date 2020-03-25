@@ -1,0 +1,21 @@
+.tittle1{
+    text-align: center;
+}
+
+.new-form, .loading{
+    width: 50%;
+    margin: 0 auto;
+}
+
+.loading {
+    text-align: center;
+}
+
+.loading img{
+    width: 60%;
+}
+
+.twitters{
+    width: 50%;
+    margin: 0 auto;
+}
